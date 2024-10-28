@@ -1,4 +1,4 @@
-## <div align="center">Hi, I'm Liz 🌟</div>
+## <div align="center">Hi, I'm Jess 🌟</div>
 
 <br>
 <div style ="display:flex;" align="center">
