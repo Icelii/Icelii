@@ -5,7 +5,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ljcGxheXFsNzVlNTRuNW13cHJlcmZvd3hqMGZnM2k2Y3N2cGVweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DbGDZz3KidE4KK6enQ/giphy.gif" style="width:250px"/>
 </div><br>
 
-<div align="center">I'm a Software Engineering student from México. Constantly learning and expanding my skills in Web Development 🌐✨.</div>
+<div align="center">I'm a Software Engineer from México. Constantly learning and expanding my skills in Web Development 🌐✨.</div>
 
 ##
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -20,7 +20,7 @@
     ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>   
+<br>    
     
 - **Front-End**:
   
@@ -39,7 +39,7 @@
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-   
+    
 
 <br>
 
